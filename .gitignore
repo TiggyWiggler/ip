@@ -1,0 +1,6 @@
+# compiled files #
+*.o
+*.so
+
+# IDE specific#
+.vscode/
